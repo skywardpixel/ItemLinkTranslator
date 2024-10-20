@@ -1,0 +1,8 @@
+## Interface: 11504
+## Version: 1.0.0
+## Title: Item Link Translator
+## Notes: Translate item links to your client language.
+## Author: Sukiyakidon
+## Thanks: Mermaid, 独孤傲雪, xLoki
+
+ItemLinkTranslator.lua
