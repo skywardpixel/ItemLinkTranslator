@@ -2,7 +2,7 @@
 ## Interface-Wrath: 30403, 30404
 ## Interface-Classic: 11504, 11505
 ## Interface-Cata: 40400, 40401
-## Version: 1.1.0
+## Version: 1.1.2
 ## Title: Item Link Translator
 ## Notes: Translate item links to your client language.
 ## Author: Sukiyakidon
